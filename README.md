@@ -1,3 +1,5 @@
+メモ:
+Scratchで放浪しているよー。([suppon_](https://scratch.mit.edu/users/suppon_))
 ## こんちは。
 できることをメモしときます。  
 ### Web関連
