@@ -1,7 +1,10 @@
-メモ:
-Scratchで放浪しているよー。([suppon_](https://scratch.mit.edu/users/suppon_))
-## こんちは。
-できることをメモしときます。  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pal21-2&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pal21-2&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pal21-2&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pal21-2&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pal21-2&theme=city_lights&utcOffset=9)
+
+## できること
 ### Web関連
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 ### 鯖など
